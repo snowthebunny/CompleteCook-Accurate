@@ -1,11 +1,10 @@
-# CompleteCook
+# Ive got a question for you!
  
-This engine is open source built from mostly from scratch code meant to rectify decomps having too much assets.
-This engine requires the lastest version of Gamemaker
+Have you ever thought using completecook, but it has some imperfections and doesnt have noise?
+Well, buddy, this fork is for you!
 
-## License
+# What we're doing
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Join the server!
-[Discord Server Link](https://discord.gg/httWKmg4Y5)
+This fork is meant for recoding CompleteCook so that it works like base game,
+No more flipping the sprite on superjumpprep, No more limitations to one character.
+Making it as accurate as possible to the base game.
